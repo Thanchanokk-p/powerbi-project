@@ -8,7 +8,7 @@ This space is dedicated to collecting, organizing, **my external Power BI projec
 This repository is created to:
 
 - 📊 Record all external Power BI projects
-- 💼 Showcase business intelligence use cases in various industry including my working background in e-commerce, retail and MarTech Consultant company
+- 💼 Showcase business intelligence use cases in various industry including my working background in E-commerce, Retail and MarTech Consultant company
 - 🧠 Improve my Power BI skills  
   Tools used include BI Advanced visualization, DAX, Power Query, data modeling, and AI-powered visuals to build insightful and interactive dashboards.
 
