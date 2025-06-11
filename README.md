@@ -12,15 +12,12 @@ This repository is created to:
 - 🧠 Improve my Power BI skills  
   Tools used include BI Advanced visualization, DAX, Power Query, data modeling, and AI-powered visuals to build insightful and interactive dashboards.
 
----
-
 ## 📂 Project Structure
 
 This repository is mainly used to store Power BI files (.pbix) for version control and collaboration in Git.  
 For detailed screenshots, previews, and in-depth analysis, please visit my public Notion portfolio:  
 [Data Visualization Portfolio](https://www.notion.so/Data-Visualization-Portfolio-20f84bd8b2d280978432e853b65b8c88?source=copy_link)
 
----
 
 ## 🧾 Sample Dashboard
 
